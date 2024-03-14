@@ -1,0 +1,1 @@
+cd todolist-docker-compose && docker-compose up
